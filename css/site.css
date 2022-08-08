@@ -1,0 +1,13 @@
+.text{
+    color: purple;
+}
+
+.mid{
+    list-style-position: inside;
+}
+.bg{
+    background-color: black;
+}
+.fs{
+    font-size: 30px;
+}
